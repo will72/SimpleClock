@@ -1,5 +1,7 @@
 package com.wharwell.simpleclock;
 
+//ubuntu git test
+
 import android.content.res.AssetManager;
 import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;
